@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : PROIECT CAD.brd                               )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Wed Feb 05 02:14:59 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU\PROIECT PCB\allegro'
+Design Directory:            'C:/Users/drago/Desktop/Proiect CAD - FINAL/Proiect PCB/allegro'
+Old design name:             'D:/Proiect CAD - E6B - DRAGOTONIU SI BENGULESCU/Proiect PCB/allegro/PROIECT CAD.brd'
+New design name:             'C:/Users/drago/Desktop/Proiect CAD - FINAL/Proiect PCB/allegro/PROIECT CAD.brd'
+
+CmdLine: netrev.exe -y 1 -i D:\PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU\PROIECT PCB\allegro D:\Proiect CAD - E6B - DRAGOTONIU SI BENGULESCU\Proiect PCB\allegro\PROIECT CAD.brd C:\Users\drago\Desktop\Proiect CAD - FINAL\Proiect PCB\allegro\PROIECT CAD.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU/PROIECT PCB/allegro/pstchip.dat 
+   Finished reading D:/PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU/PROIECT PCB/allegro/pstchip.dat (00:00:00.06)
+Starting to read D:/PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU/PROIECT PCB/allegro/pstxprt.dat 
+   Finished reading D:/PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU/PROIECT PCB/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU/PROIECT PCB/allegro/pstxnet.dat 
+   Finished reading D:/PROIECT CAD - E6B - DRAGOTONIU SI BENGULESCU/PROIECT PCB/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Feb 5 2:14:59 2025
+   DESIGN NAME : 'PROIECT CAD'
+   PACKAGING ON Jul 30 2017 03:29:02
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:45
+elapsed time  0:00:00
+

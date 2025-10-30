@@ -1,0 +1,126 @@
+\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed May 28 23:02:06 2025
+\t (00:00:03)         Host=LAPTOP-IONUTES User=Ionu? Pid=26536 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/drago/Desktop/Facultate/TEME 2024-2025/Proiect CAD - E6B - DRAGOTONIU SI BENGULESCU/Proiect PCB/allegro/PROIECT CAD.brd
+\i (00:00:06) trapsize 1804
+\i (00:00:06) trapsize 1845
+\i (00:00:06) trapsize 1845
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 657.89 1262.31
+\i (00:00:07) trapsize 922
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 502.92 1349.02
+\i (00:00:08) trapsize 1845
+\i (00:00:12) open 
+\i (00:00:31) fillin "PROIECT CAD.brd"
+\t (00:00:31) Opening existing design...
+\i (00:00:32) trapsize 1874
+\d (00:00:32) Design opened: C:/Users/drago/Desktop/Facultate/TEME 2024-2025/Proiect CAD - E6B - DRAGOTONIU SI BENGULESCU/Proiect PCB/allegro/PROIECT CAD.brd
+\i (00:00:32) generaledit 
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 1994.02 1188.25
+\i (00:00:33) trapsize 3748
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 2742.39 658.97
+\i (00:00:35) trapsize 1874
+\i (00:00:35) roam x -96 
+\i (00:00:35) roam x -96
+\i (00:00:35) roam x -96 
+\i (00:00:35) roam x -96
+\i (00:00:35) roam x -96 
+\i (00:00:35) roam x -96
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 1670.60 703.94
+\i (00:00:36) trapsize 3748
+\i (00:00:53) artwork 
+\i (00:00:58) setwindow form.film_control
+\i (00:00:58) FORM film_control cancel  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) generaledit 
+\i (00:01:02) artwork 
+\i (00:01:07) setwindow form.film_control
+\i (00:01:07) FORM film_control filmtree  AssemblyDrawing_Top 
+\i (00:01:07) FORM film_control filmtree  Silkscreen_TOP 
+\i (00:01:08) FORM film_control filmtree  Soldermask_TOP 
+\i (00:01:08) FORM film_control filmtree  TESTARE_COMPATIBILITATE 
+\i (00:01:08) FORM film_control filmtree  Soldermask_BOTTOM 
+\i (00:01:09) FORM film_control filmtree  TESTARE_COMPATIBILITATE 
+\i (00:01:09) FORM film_control filmtree  Soldermask_TOP 
+\i (00:01:09) FORM film_control filmtree  Soldermask_BOTTOM 
+\i (00:01:09) FORM film_control filmtree  Silkscreen_TOP 
+\i (00:01:10) FORM film_control filmtree  Fabrication 
+\i (00:01:11) FORM film_control filmtree  ALL 
+\i (00:01:12) FORM film_control filmtree  BOTTOM 
+\i (00:01:12) FORM film_control filmtree  TOP 
+\i (00:01:17) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:01:20) FORM film_control create  
+\i (00:01:24) fillin yes 
+\t (00:01:24) Checking db records
+\t (00:01:24)     checking for orphans...
+\t (00:01:24)     Checked 100 percent
+\t (00:01:24) Done dbdoctor.
+\t (00:01:24) Starting Create artwork films...
+\t (00:01:26) Plot generated.
+\i (00:01:26) setwindow pcb
+\i (00:01:26) pick grid 3829.17 1888.15
+\t (00:01:26) last pick:  3830.00 1888.00
+\i (00:01:38) setwindow form.film_control
+\i (00:01:38) FORM film_control ok  
+\i (00:01:38) setwindow pcb
+\i (00:01:38) generaledit 
+\i (00:04:20) color192 
+\i (00:04:20) generaledit 
+\i (00:04:26) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:04:34) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (00:04:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:04:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:04:49) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:04:52) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:04:59) QtSignal CVDLayerTable VertHeader clickedCheckBox 30
+\i (00:04:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
+\i (00:05:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:05:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:05:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:05:11) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:05:13) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:05:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:05:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:18) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor
+\i (00:05:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:05:21) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:05:32) artwork 
+\i (00:05:39) setwindow form.film_control
+\i (00:05:39) FORM film_control filmtree popup Add TOP 
+\i (00:05:48) fillin "Soldermasktoptop"
+\i (00:06:03) FORM film_control filmtree 'MULTISEL YES' Soldermasktoptop 
+\i (00:06:03) FORM film_control filmtree  Soldermasktoptop 
+\i (00:06:05) FORM film_control create  
+\i (00:06:09) fillin yes 
+\t (00:06:09) Checking db records
+\t (00:06:09)     checking for orphans...
+\t (00:06:09)     Checked 100 percent
+\t (00:06:09) Done dbdoctor.
+\t (00:06:09) Starting Create artwork films...
+\t (00:06:11) Plot generated.
+\i (00:07:39) setwindow pcb
+\i (00:07:39) color192 
+\i (00:07:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:07:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:07:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:07:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:07:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (01:13:48) exit 
+\e (01:13:48) Do you want to save the changes you made to PROIECT CAD.brd?
+\i (01:13:49) fillin no 
+   (01:13:49) Loading signal.cxt 
+\t (01:13:50)     Journal end - Thu May 29 00:15:53 2025

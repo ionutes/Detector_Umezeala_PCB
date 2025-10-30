@@ -1,0 +1,6 @@
+axlFilmCreate( "Silkscreen_Top" ?negative nil ?undefineLineWidth 0.00 ?sequence 5 
+	?rotation 0 ?xOffset 0.00 ?yOffset 0.00 ?shapeBoundingBox 100.00 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("USER PART NUMBER/SILKSCREEN_TOP" "TOLERANCE/SILKSCREEN_TOP" "REF DES/SILKSCREEN_TOP" "PACKAGE GEOMETRY/SILKSCREEN_TOP" "DEVICE TYPE/SILKSCREEN_TOP" "COMPONENT VALUE/SILKSCREEN_TOP" "BOARD GEOMETRY/SILKSCREEN_TOP" ))

@@ -1,0 +1,25 @@
+  Revised: Sunday, January 19, 2025
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        January 19,2025      17:08:15	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	1uF/16V
+2	2	C2,C3	100nF
+3	1	HDP-007	SENSOR
+4	1	IC1	LM7805/TO
+5	2	J1,J2	CON2
+6	1	PC817/ISO1	OPTO ISOLATOR-A
+7	1	P1	220K
+8	1	R1	1K
+9	1	R2	100
+10	1	R3	270
+11	1	T1	2N2222

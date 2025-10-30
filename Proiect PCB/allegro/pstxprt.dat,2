@@ -1,0 +1,140 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Feb-05-2025 at 01:12:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PROIECT CAD';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR POL_CAP196_1UF/16V':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS158@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins158@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins158@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_CAPCK05_100NF':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS989@DISCRETE.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins989@discrete.\capacitor.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins989@discrete.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_CAPCK05_100NF':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS1083@DISCRETE.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins1083@discrete.\capacitor.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins1083@discrete.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ HDP-07 'SENSOR_JUMPER2_SENSOR':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS6254@SENZORHDP007.SENSOR.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins6254@senzorhdp007.\sensor.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins6254@senzorhdp007.\sensor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'LM7805/TO_6_TO220AB_LM7805/TO':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS1802@PROIECT CAD.LM7805/TO_6.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins1802@\proiect cad\.\lm7805/to_6.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins1802@\proiect cad\.\lm7805/to_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS2378@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins2378@connector.\con2.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins2378@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS3174@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins3174@connector.\con2.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins3174@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_TRIM_BI_23AL_220K':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS327@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins327@discrete.\pot.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins327@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PC817/ISO1 'OPTO ISOLATOR-A_0_DIP4_3_OPTO I':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS5019@PROIECT CAD.OPTO ISOLATOR-A_0.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins5019@\proiect cad\.\opto isolator-a_0.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins5019@\proiect cad\.\opto isolator-a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS73@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins73@discrete.\resistor.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins73@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES400_100':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS116@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins116@discrete.\resistor.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins116@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES400_270':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS279@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins279@discrete.\resistor.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins279@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 '2N2222_TO92_2N2222':;
+
+SECTION_NUMBER 1
+ '@PROIECT CAD.SCHEMATIC1(SCH_1):INS233@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@\proiect cad\.schematic1(sch_1):ins233@transistor.\2n2222.normal\(chips)',
+ P_PATH='@\proiect cad\.schematic1(sch_1):page_ins233@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

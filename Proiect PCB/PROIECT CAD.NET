@@ -1,0 +1,80 @@
+Wire List
+
+                                              Revised: Monday, January 27, 2025
+C:\USERS\DRAGO\DESKTOP\PROIECT CAD - FINAL\PRORevision: 
+
+
+
+
+
+
+<<< Component List >>>
+1uF/16V                       C1        CAP196
+100nF                         C2        CAPCK05
+100nF                         C3        CAPCK05
+SENSOR                        HDP-07    JUMPER2
+LM7805/TO                     IC1       TO220AB
+CON2                          J1        JUMPER2
+CON2                          J2        JUMPER2
+220K                          P1        TRIM_BI_23AL
+OPTO ISOLATOR-A               PC817/ISO DIP4_3
+1K                            R1        RES400
+100R                          R2        RES400
+270R                          R3        RES400
+2N2222                        T1        TO92
+
+<<< Wire List >>>
+
+  NODE  REFERENCE    PIN #   PIN NAME           PIN TYPE       PART VALUE
+
+[00001] 9-18V
+        C3              1       1               Passive        100nF
+        J1              1       1               Passive        CON2
+        IC1             1       VIN             Input          LM7805/TO
+
+[00002] GND
+        C1              2       2               Passive        1uF/16V
+        C2              2       2               Passive        100nF
+        C3              2       2               Passive        100nF
+        J1              2       2               Passive        CON2
+        PC817/ISO       2       CATHODE         Passive        OPTO ISOLATOR-A
+        HDP-07          2       2               Passive        SENSOR
+        IC1             2       GND             Power          LM7805/TO
+
+[00003] N00055
+        R1              1       1               Passive        1K
+        P1              3       B               Passive        220K
+
+[00004] N00092
+        R1              2       2               Passive        1K
+        R2              1       1               Passive        100
+        HDP-07          1       1               Passive        SENSOR
+
+[00005] N00205
+        R2              2       2               Passive        100
+        C1              1       1               Passive        1uF/16V
+        T1              2       BASE            Input          2N2222
+
+[00006] N00261
+        T1              1       EMITTER         Passive        2N2222
+        R3              1       1               Passive        270
+
+[00007] N00298
+        R3              2       2               Passive        270
+        PC817/ISO       1       ANODE           Passive        OPTO ISOLATOR-A
+
+[00008] N00947
+        T1              3       COLLECTOR       Passive        2N2222
+        C2              1       1               Passive        100nF
+        IC1             3       VOUT            Output         LM7805/TO
+        P1              1       A               Passive        220K
+        P1              2       WIPER           Passive        220K
+
+[00009] N02719
+        J2              1       1               Passive        CON2
+        PC817/ISO       4       COLLECTOR       Passive        OPTO ISOLATOR-A
+
+[00010] N02728
+        J2              2       2               Passive        CON2
+        PC817/ISO       3       EMITTER         Passive        OPTO ISOLATOR-A
+

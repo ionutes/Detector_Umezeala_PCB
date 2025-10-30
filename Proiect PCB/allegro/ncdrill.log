@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PROIECT CAD.brd                               )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Feb 04 12:56:21 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'C:/Users/drago/Desktop/Facultate/Proiect CAD - FINAL/Proiect PCB/allegro' ...
+
+
+
+     'PROIECT CAD-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  25.0000    0.0000/  0.0000      PLATED          3
+            2.  36.0000    0.0000/  0.0000      PLATED         12
+            3.  42.0000    0.0000/  0.0000      PLATED         10
+            4.  55.0000    0.0000/  0.0000      PLATED          3
+            5. 125.0000    0.0000/  0.0000  NON_PLATED          3
+
+     ---- Total holes:                                         31
+
+     ---- Total head travel:              1.69 feet (0.52 meters)
+

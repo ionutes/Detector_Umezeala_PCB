@@ -1,0 +1,183 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Feb-05-2025 at 01:12:21}
+primitive 'CAPACITOR POL_CAP196_1UF/16V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL';
+    JEDEC_TYPE='CAP196';
+    VALUE='1uF/16V';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_CAPCK05_100NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR';
+    JEDEC_TYPE='CAPCK05';
+    VALUE='100nF';
+  end_body;
+end_primitive;
+primitive 'SENSOR_JUMPER2_SENSOR';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SENSOR';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='SENSOR';
+  end_body;
+end_primitive;
+primitive 'LM7805/TO_6_TO220AB_LM7805/TO';
+  pin
+    'VIN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'VOUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='LM7805/TO_6';
+    JEDEC_TYPE='TO220AB';
+    VALUE='LM7805/TO';
+  end_body;
+end_primitive;
+primitive 'CON2_JUMPER2_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive 'POT_TRIM_BI_23AL_220K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='POT';
+    JEDEC_TYPE='TRIM_BI_23AL';
+    VALUE='220K';
+  end_body;
+end_primitive;
+primitive 'OPTO ISOLATOR-A_0_DIP4_3_OPTO I';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'COLLECTOR':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'EMITTER':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='OPTO ISOLATOR-A_0';
+    JEDEC_TYPE='DIP4_3';
+    VALUE='OPTO ISOLATOR-A';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_RES400_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='RES400';
+    VALUE='1K';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_RES400_100';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='RES400';
+    VALUE='100';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_RES400_270';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='RES400';
+    VALUE='270';
+  end_body;
+end_primitive;
+primitive '2N2222_TO92_2N2222';
+  pin
+    'COLLECTOR':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'EMITTER':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'BASE':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='2N2222';
+    JEDEC_TYPE='TO92';
+    VALUE='2N2222';
+  end_body;
+end_primitive;
+END.
