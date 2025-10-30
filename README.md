@@ -41,8 +41,8 @@ Placa de circuit imprimat (PCB) respectă următoarele specificații de proiecta
 ## 📁 Conținutul Depozitului
 
 * **`01_Documentatie/`**: Raportul proiectului, schema electrică și lista de materiale (BOM).
-* **`02_Fisiere_CAD_Sursa/`**: Fișierele native **OrCAD Capture** și **PCB Editor** pentru modificări ulterioare.
-* **`03_Fisiere_Fabricatie_Gerber/`**: Fișierele finale (Gerber, Drill Chart) necesare pentru comanda PCB-ului la un producător.
+* **`02_Proiect_PCB/`**: Fișierele native **OrCAD Capture** și **PCB Editor** pentru modificări ulterioare.
+* **`03_Fisiere_pentru_Fabricatie/`**: Fișierele finale (Gerber, Drill Chart) necesare pentru comanda PCB-ului la un producător.
 * **`04_Foi_de_Catalog/`**: Datasheet-uri pentru referință tehnică.
 
 ---
