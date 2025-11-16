@@ -52,4 +52,4 @@ Proiect realizat de **Dragotoniu Ionuț-Constantin**
 
 Facultatea de Electronică, Telecomunicații și Tehnologia Informației – UPB
 
-An universitar 2025–2026
+An universitar 2024–2025
